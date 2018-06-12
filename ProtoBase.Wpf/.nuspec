@@ -5,9 +5,9 @@
     <version>1.0.0.0</version>
     <description>Simple boilerplate for quick and dirty WPF developments.</description>
     <authors>gpriaulx</authors>
-    <licenseUrl></licenseUrl>
+    <licenseUrl>https://raw.githubusercontent.com/gpriaulx/ProtoBase/master/LICENSE</licenseUrl>
     <projectUrl>https://github.com/gpriaulx/ProtoBase</projectUrl>
-    <iconUrl></iconUrl>
+    <iconUrl>https://raw.githubusercontent.com/gpriaulx/ProtoBase/master/Icon.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <tags>WPF</tags>
     <dependencies>
