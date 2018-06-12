@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProtoBase.Wpf", "ProtoBase.Wpf\ProtoBase.Wpf.csproj", "{28ABB137-1FF3-4DDA-B3D7-A0DFD5F7E681}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0CB4695D-325A-414D-952C-086B9C4E5074}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		Icon.png = Icon.png
+		Icon.svg = Icon.svg
+		LICENSE = LICENSE
+		ReadMe.md = ReadMe.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28ABB137-1FF3-4DDA-B3D7-A0DFD5F7E681}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28ABB137-1FF3-4DDA-B3D7-A0DFD5F7E681}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28ABB137-1FF3-4DDA-B3D7-A0DFD5F7E681}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28ABB137-1FF3-4DDA-B3D7-A0DFD5F7E681}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70991931-B96A-4E82-86D1-5065CB528E23}
+	EndGlobalSection
+EndGlobal
