@@ -2,7 +2,7 @@
 <package  xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
   <metadata>
     <id>ProtoBase.Wpf</id>
-    <version>1.0.0.0</version>
+    <version>1.0.1.0</version>
     <description>Simple boilerplate for quick and dirty WPF developments.</description>
     <authors>gpriaulx</authors>
     <licenseUrl>https://raw.githubusercontent.com/gpriaulx/ProtoBase/master/LICENSE</licenseUrl>
@@ -11,8 +11,8 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <tags>WPF</tags>
     <dependencies>
-      <dependency id="Fody" version="3.0.4" />
-      <dependency id="PropertyChanged.Fody" version="2.5.7" />
+      <dependency id="Fody" version="3.1.3" />
+      <dependency id="PropertyChanged.Fody" version="2.5.8" />
     </dependencies>
   </metadata>
 </package>
